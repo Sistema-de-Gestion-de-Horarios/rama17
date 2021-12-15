@@ -1,0 +1,7 @@
+npm install nodemon -g
+npm install typescript -g
+npm install ts-node -g
+
+instalar mongodb
+
+iniciar: npm run dev
